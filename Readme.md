@@ -1,4 +1,4 @@
-# Single Page Resume Website (HTML Only)
+# Single Page Resume Website 
 
 ## Description
 This is a simple single-page resume website built using only HTML.
@@ -17,5 +17,6 @@ No CSS or JavaScript is used as per assignment requirements.
 ## Demo
 - Screenshot attached
 
+![alt text](image.png)
 ## Author
 Shreyas M
